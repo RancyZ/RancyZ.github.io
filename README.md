@@ -1,11 +1,3 @@
-<style>
-/* This CSS hides the default theme header */
-header.page-header {
-display: none;
-}
-</style>
-
-
 <div class="about-me container">
 
 <div class="section-title">
