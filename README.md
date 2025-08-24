@@ -1,112 +1,14 @@
-<div class="about-me container">
+# updated website
 
-<div class="section-title">
-<h2>About me</h2>
-<p>I am a second-year Ph.D. student advised by <a href="https://www.shuaihuang.info">Prof. Shuai Huang</a> at the University of Washington.</p>
-</div>
+This repo is built on a fork of **Jekyll Now** from [this repository](https://github.com/barryclark/jekyll-now). **Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))
 
-<div class="row">
-<!-- Text Block (Now on the left) -->
-<div class="col-lg-8 pt-4 pt-lg-0 content order-lg-1" data-aos="fade-left">
-<h3>Ph.D. in Industrial Engineering</h3>
-<p class="fst-italic">
-University of Washington, Seattle
-</p>
-<div class="row">
-<div class="col-lg-6">
-<ul>
-<li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>congjing@uw.edu</span></li>
-<li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+1 206 970 9600</span></li>
-</ul>
-</div>
-<div class="col-lg-6">
-<ul>
-<li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Ph.D. Candidate</span></li>
-<li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Seattle, WA, USA</span></li>
-</ul>
-</div>
-</div>
-<p>
-I am a Ph.D. candidate in Industrial Engineering at the University of Washington. My research focuses on Large Language Models (LLMs), Anomaly Detection, Data Generation, and Uncertainty Quantification. I am passionate about applying machine learning to solve real-world problems. I have interned at Instacart and Wyze, where I developed machine learning models for incentive targeting and video anomaly detection.
-</p>
-</div>
+The website design is just a modification of [Jon Barron's website](https://jonbarron.info/) and is converted for my own use, re-purposing my old markdown posts. **Feel free to use template for your own purposes**, but please respect copyright for all the images/content in my `images`, `pdfs`, `_posts` folders. 
 
-<!-- Image Block (Now on the right) -->
-<div class="col-lg-4 order-lg-2" data-aos="fade-right">
-  <img src="assets/img/me.jpg" class="img-fluid" alt="">
-</div>
 
-</div>
 
-</div>
-
-<!-- ======= Experience Section ======= -->
-
-<section id="experience" class="experience">
-<div class="container">
-<div class="section-title">
-<h2>Experience</h2>
-<p>My Professional Work Experience</p>
-</div>
-<div class="row">
-<div class="col-lg-6">
-<h3 class="experience-title">Instacart</h3>
-<div class="experience-item">
-<h4>Machine Learning Engineer, PhD Intern</h4>
-<h5>June 2025 - Present</h5>
-<p><em>Bellevue, WA </em></p>
-<p>Developed an off-policy evaluation framework to optimize incentive targeting policies for maximizing gross transaction values.</p>
-</div>
-</div>
-<div class="col-lg-6">
-<h3 class="experience-title">Wyze</h3>
-<div class="experience-item">
-<h4>AI Scientist Intern</h4>
-<h5>June 2024 - Sept. 2024</h5>
-<p><em>Kirkland, WA </em></p>
-<p>Developed the first benchmark for video anomaly detection in smart homes and proposed a novel LLM chaining framework to enhance detection accuracy.</p>
-</div>
-</div>
-</div>
-</div>
-</section><!-- End Experience Section -->
-
-<!-- ======= Publications Section ======= -->
-
-<section id="publications" class="publications section-bg">
-<div class="container">
-<div class="section-title">
-<h2>Publications</h2>
-<p>My Research and Publications</p>
-</div>
-<div class="row">
-<div class="col-lg-12" data-aos="fade-up">
-<div class="publication-item">
-<h4>ALARM: Automated LLM-based anomaly detection in smart-home monitoring with uncertainty quantification.</h4>
-<p><em>Congjing Zhang*, Feng Lin*, Xinyi Zhao, Pei Guo, Wei Li, Lin Chen, Chaoyue Zhao, and Shuai Huang.</em><br>
-<strong>INFORMS Journal on Data Science (Under Review), 2025</strong></p>
-</div>
-<div class="publication-item">
-<h4>Mitigating misinformation in health policy data extraction with LLMs.</h4>
-<p><em>Congjing Zhang, Jingyu Li, Xianshan Qu, Shuai Huang, and Yanfang Su.</em><br>
-<strong>2025 APPAM Fall Research Conference, 2025</strong></p>
-</div>
-<div class="publication-item">
-<h4>Smarthome-bench: A comprehensive benchmark for video anomaly detection in smart homes using multi-modal large language models.</h4>
-<p><em>Congjing Zhang*, Xinyi Zhao*, Pei Guo, Wei Li, Lin Chen, Chaoyue Zhao, and Shuai Huang.</em><br>
-<strong>Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR) Workshops, 2025</strong></p>
-</div>
-<div class="publication-item">
-<h4>1462-p: Genetic risk score for type 1 diabetes across ethnic populations via multitask learning.</h4>
-<p><em>Mingqian Li, Feng Lin, Congjing Zhang, Kendra Vehik, Hemang Parikh, Richard Oram, Xiaoning Qian, and Shuai Huang.</em><br>
-<strong>Diabetes, 73(Supplement_1), 2024</strong></p>
-</div>
-<div class="publication-item">
-<h4>Incorporating expert knowledge into rule learning via reinforcement learning.</h4>
-<p><em>Congjing Zhang.</em><br>
-<strong>Master's thesis, 2023</strong></p>
-</div>
-</div>
-</div>
-</div>
-</section><!-- End Publications Section -->
+## issues
+* In general, jekyll will try to build a full page for every post. I skip that by forcing `permalink: /`. This creates multiple entries in sitemap.xml for index.html but is otherwise fine. 
+* If you want multiple paragraphs, consider using `excerpt_separator: <!--more-->` in `_config.yml`, for my own use I didn't need this. 
+* My own posts have lots of extra stuff left over from my old jekyll design ("author", long descriptions, etc.), feel free to ignore them
+* I use thumbnails, so I can upload arbitrary sized images but then only display small ones. The `_make_thumbnails.sh` script generates them and the html template looks in `tn/` for all images. 
+* I have three categories of post with slightly differerent formatting, so changing sizing requires edits in multiple paces. 
