@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "CrowdLLM: A Synthetic Crowd of LLM-Based Decision-Makers Augmented with Generative Models"
+#date:   2025-08-01 21:21:53 +00:00
+image: /images/ALARM2025.png
+categories: manu
+authors: "Feng Lin, Keyu Tian, Hanming Zheng, <strong><u>Congjing Zhang</u></strong>, Li Zeng, Shuai Huang"
+subtitle: "Cdatagen 2025"
+#venue: "INFORMS Journal on Data Science (Under Review)"
+#arxiv: https://arxiv.org/abs/1705.05548
+---
+
+

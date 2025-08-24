@@ -144,9 +144,62 @@
           {% endfor %}
           {% endfor %}
         </table>
-        <br>
-        <br>
-        <br>
+        <!-- <br> -->
+        <!-- <br>
+        <br> -->
+
+
+
+
+
+        <!-- ===== Manuscripts in Preparation ===== -->
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <tr>
+    <td style="padding:2.5%;width:100%;vertical-align:middle">
+      <h2>Manuscripts in Preparation</h2>
+    </td>
+  </tr>
+</table>
+
+{% assign manus = site.categories.manu | sort: "subtitle" %}
+<!-- For reverse order (Z→A), add | reverse -->
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  {% for post in manus %}
+  <tr>
+    <!-- Optional thumbnail slot
+    <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+      <img src="/tn{{ post.image }}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+    </td>
+    -->
+    <td style="padding:2.5%;width:75%;vertical-align:middle">
+      <h3 style="margin-bottom:0;">{{ post.title }}</h3>
+
+      {% if post.authors %}
+      <div>{{ post.authors }}</div>
+      {% endif %}
+
+      <!-- <em>{{ post.venue }}</em>, {{ post.date | date: "%Y" }} -->
+
+      <div style="margin-top:6px;">
+        {% if post.arxiv %}<a href="{{ post.arxiv }}">arxiv</a> / {% endif %}
+        {% if post.Paper %}<a href="{{ post.Paper }}">Paper</a> / {% endif %}
+        {% if post.video %}<a href="{{ post.video }}">video</a> / {% endif %}
+        {% if post.code %}<a href="{{ post.code }}">Code</a> / {% endif %}
+        {% if post.poster %}<a href="{{ post.poster }}">poster</a> / {% endif %}
+        {% if post.slides %}<a href="{{ post.slides }}">slides</a> / {% endif %}
+        {% if post.website %}<a href="{{ post.website }}">website</a> / {% endif %}
+        {% if post.youtube %}<a href="{{ post.youtube }}">youtube</a>{% endif %}
+      </div>
+
+      <p style="margin-top:8px;">{{ post.excerpt }}</p>
+    </td>
+  </tr>
+  {% endfor %}
+</table>
+
+<br><br><br>
+
 
 
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
