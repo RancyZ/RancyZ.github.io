@@ -113,6 +113,3 @@
 </div>
 </section><!-- End Publications Section -->
 
-</div>
-</div>
-
