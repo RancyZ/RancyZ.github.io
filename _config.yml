@@ -1,1 +1,17 @@
 title: Congjing Zhang
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: jekyll/minima
+
+# Make sure your custom CSS is loaded
+minima:
+  skin: classic
+
+sass:
+  style: compressed
+
+# Point to your CSS
+include:
+  - assets/css/style.css
