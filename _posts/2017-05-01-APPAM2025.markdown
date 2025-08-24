@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Mitigating Misinformation in Health Policy Data Extraction with LLMs"
+date:   2025-05-01 21:21:53 +00:00
+image: /images/ALARM2025.png
+categories: research
+authors: "<strong><u>Congjing Zhang</u></strong>, Jingyu Li, Xianshan Qu, Shuai Huang, Yanfang Su"
+subtitle: "APPAM 2025"
+venue: "APPAM Fall Research Conference (Accepted)"
+#arxiv: https://arxiv.org/abs/1705.05548
+---
+
+

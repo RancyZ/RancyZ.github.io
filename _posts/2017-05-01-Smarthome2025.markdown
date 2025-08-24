@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "SmartHome-Bench: A Comprehensive Benchmark for Video Anomaly Detection in Smart Homes Using Multi-Modal Large Language Models"
+date:   2025-04-01 21:21:53 +00:00
+image: /images/ALARM2025.png
+categories: research
+authors: "<strong><u>Congjing Zhang</u></strong>*, Xinyi Zhao*, Pei Guo, Wei Li, Lin Chen, Chaoyue Zhao, Shuai Huang"
+subtitle: "CVPR2025"
+venue: "Computer Vision and Pattern Recognition Conference (CVPR) Workshops"
+Paper: https://openaccess.thecvf.com/content/CVPR2025W/VAND/papers/Zhao_SmartHome-Bench_A_Comprehensive_Benchmark_for_Video_Anomaly_Detection_in_Smart_CVPRW_2025_paper.pdf
+code: https://github.com/Xinyi-0724/SmartHome-Bench-LLM
+---
+
+

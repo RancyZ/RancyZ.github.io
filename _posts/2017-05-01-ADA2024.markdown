@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Genetic Risk Score for Type 1 Diabetes across Ethnic Populations via Multitask Learning"
+date:   2024-04-01 21:21:53 +00:00
+image: /images/ALARM2025.png
+categories: research
+authors: "Mingqian Li, Feng Lin, <strong><u>Congjing Zhang</u></strong>, Kendra Vehik, Hemang M Parikh, Richard A Oram, Xiaoning Qian, Shuai Huang"
+subtitle: "ADA2024"
+venue: "Diabetes"
+Paper: https://diabetesjournals.org/diabetes/article/73/Supplement_1/1462-P/155657/1462-P-Genetic-Risk-Score-for-Type-1-Diabetes
+---
+
+

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Incorporating Expert Knowledge into Rule Learning via Reinforcement Learning"
+date:   2023-04-01 21:21:53 +00:00
+image: /images/ALARM2025.png
+categories: research
+authors: "<strong><u>Congjing Zhang</u></strong>"
+subtitle: "master2023"
+venue: "Master’s Thesis"
+Paper: https://digital.lib.washington.edu/server/api/core/bitstreams/00dd3983-0b66-49f1-9a2b-0baf5fbfdaf5/content
+---
+
+*These authors contributed equally.
+
