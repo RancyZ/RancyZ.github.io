@@ -113,44 +113,6 @@
 </div>
 </section><!-- End Publications Section -->
 
-<!-- ======= Education Section ======= -->
-
-<section id="education" class="education">
-<div class="container">
-<div class="section-title">
-<h2>Education</h2>
-<p>My Academic Background</p>
-</div>
-<div class="row">
-<div class="col-lg-6">
-<h3 class="education-title">University of Washington, Seattle</h3>
-<div class="education-item">
-<h4>Ph.D. in Industrial Engineering</h4>
-<h5>2023 - Present</h5>
-</div>
-<div class="education-item">
-<h4>Master of Science in Industrial Engineering</h4>
-<h5>2021 - 2023</h5>
-</div>
-</div>
-<div class="col-lg-6">
-<h3 class="education-title">ShanghaiTech University</h3>
-<div class="education-item">
-<h4>Bachelor of Engineering in Materials Science and Engineering</h4>
-<h5>2017 - 2021</h5>
-</div>
-</div>
-</div>
-</div>
-</section><!-- End Education Section -->
-
-<div class="portfolio">
-<div class="container">
-<div class="section-title">
-<h2>Projects</h2>
-<p>My Projects</p>
-</div>
-... (Your existing projects section code would go here) ...
 </div>
 </div>
 
