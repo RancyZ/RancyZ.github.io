@@ -1,5 +1,3 @@
-<a name="about"></a>
-
 <div class="about-me container">
 
 <div class="section-title">
@@ -42,33 +40,30 @@ I am a Ph.D. candidate in Industrial Engineering at the University of Washington
 
 <section id="experience" class="experience">
 <div class="container">
-
 <div class="section-title">
-  <h2>Experience</h2>
-  <p>My Professional Work Experience</p>
+<h2>Experience</h2>
+<p>My Professional Work Experience</p>
 </div>
-
 <div class="row">
-  <div class="col-lg-6">
-    <h3 class="experience-title">Instacart</h3>
-    <div class="experience-item">
-      <h4>Machine Learning Engineer, PhD Intern</h4>
-      <h5>June 2025 - Present</h5>
-      <p><em>Bellevue, WA </em></p>
-      <p>Developed an off-policy evaluation framework to optimize incentive targeting policies for maximizing gross transaction values.</p>
-    </div>
-  </div>
-  <div class="col-lg-6">
-    <h3 class="experience-title">Wyze</h3>
-    <div class="experience-item">
-      <h4>AI Scientist Intern</h4>
-      <h5>June 2024 - Sept. 2024</h5>
-      <p><em>Kirkland, WA </em></p>
-      <p>Developed the first benchmark for video anomaly detection in smart homes and proposed a novel LLM chaining framework to enhance detection accuracy.</p>
-    </div>
-  </div>
+<div class="col-lg-6">
+<h3 class="experience-title">Instacart</h3>
+<div class="experience-item">
+<h4>Machine Learning Engineer, PhD Intern</h4>
+<h5>June 2025 - Present</h5>
+<p><em>Bellevue, WA </em></p>
+<p>Developed an off-policy evaluation framework to optimize incentive targeting policies for maximizing gross transaction values.</p>
 </div>
-
+</div>
+<div class="col-lg-6">
+<h3 class="experience-title">Wyze</h3>
+<div class="experience-item">
+<h4>AI Scientist Intern</h4>
+<h5>June 2024 - Sept. 2024</h5>
+<p><em>Kirkland, WA </em></p>
+<p>Developed the first benchmark for video anomaly detection in smart homes and proposed a novel LLM chaining framework to enhance detection accuracy.</p>
+</div>
+</div>
+</div>
 </div>
 </section><!-- End Experience Section -->
 
@@ -76,42 +71,39 @@ I am a Ph.D. candidate in Industrial Engineering at the University of Washington
 
 <section id="publications" class="publications section-bg">
 <div class="container">
-
 <div class="section-title">
-  <h2>Publications</h2>
-  <p>My Research and Publications</p>
+<h2>Publications</h2>
+<p>My Research and Publications</p>
 </div>
-
 <div class="row">
-  <div class="col-lg-12" data-aos="fade-up">
-    <div class="publication-item">
-      <h4>ALARM: Automated LLM-based anomaly detection in smart-home monitoring with uncertainty quantification.</h4>
-      <p><em>Congjing Zhang*, Feng Lin*, Xinyi Zhao, Pei Guo, Wei Li, Lin Chen, Chaoyue Zhao, and Shuai Huang.</em><br>
-      <strong>INFORMS Journal on Data Science (Under Review), 2025</strong></p>
-    </div>
-    <div class="publication-item">
-      <h4>Mitigating misinformation in health policy data extraction with LLMs.</h4>
-      <p><em>Congjing Zhang, Jingyu Li, Xianshan Qu, Shuai Huang, and Yanfang Su.</em><br>
-      <strong>2025 APPAM Fall Research Conference, 2025</strong></p>
-    </div>
-    <div class="publication-item">
-      <h4>Smarthome-bench: A comprehensive benchmark for video anomaly detection in smart homes using multi-modal large language models.</h4>
-      <p><em>Congjing Zhang*, Xinyi Zhao*, Pei Guo, Wei Li, Lin Chen, Chaoyue Zhao, and Shuai Huang.</em><br>
-      <strong>Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR) Workshops, 2025</strong></p>
-    </div>
-    <div class="publication-item">
-      <h4>1462-p: Genetic risk score for type 1 diabetes across ethnic populations via multitask learning.</h4>
-      <p><em>Mingqian Li, Feng Lin, Congjing Zhang, Kendra Vehik, Hemang Parikh, Richard Oram, Xiaoning Qian, and Shuai Huang.</em><br>
-      <strong>Diabetes, 73(Supplement_1), 2024</strong></p>
-    </div>
-     <div class="publication-item">
-      <h4>Incorporating expert knowledge into rule learning via reinforcement learning.</h4>
-      <p><em>Congjing Zhang.</em><br>
-      <strong>Master's thesis, 2023</strong></p>
-    </div>
-  </div>
+<div class="col-lg-12" data-aos="fade-up">
+<div class="publication-item">
+<h4>ALARM: Automated LLM-based anomaly detection in smart-home monitoring with uncertainty quantification.</h4>
+<p><em>Congjing Zhang*, Feng Lin*, Xinyi Zhao, Pei Guo, Wei Li, Lin Chen, Chaoyue Zhao, and Shuai Huang.</em><br>
+<strong>INFORMS Journal on Data Science (Under Review), 2025</strong></p>
 </div>
-
+<div class="publication-item">
+<h4>Mitigating misinformation in health policy data extraction with LLMs.</h4>
+<p><em>Congjing Zhang, Jingyu Li, Xianshan Qu, Shuai Huang, and Yanfang Su.</em><br>
+<strong>2025 APPAM Fall Research Conference, 2025</strong></p>
+</div>
+<div class="publication-item">
+<h4>Smarthome-bench: A comprehensive benchmark for video anomaly detection in smart homes using multi-modal large language models.</h4>
+<p><em>Congjing Zhang*, Xinyi Zhao*, Pei Guo, Wei Li, Lin Chen, Chaoyue Zhao, and Shuai Huang.</em><br>
+<strong>Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR) Workshops, 2025</strong></p>
+</div>
+<div class="publication-item">
+<h4>1462-p: Genetic risk score for type 1 diabetes across ethnic populations via multitask learning.</h4>
+<p><em>Mingqian Li, Feng Lin, Congjing Zhang, Kendra Vehik, Hemang Parikh, Richard Oram, Xiaoning Qian, and Shuai Huang.</em><br>
+<strong>Diabetes, 73(Supplement_1), 2024</strong></p>
+</div>
+<div class="publication-item">
+<h4>Incorporating expert knowledge into rule learning via reinforcement learning.</h4>
+<p><em>Congjing Zhang.</em><br>
+<strong>Master's thesis, 2023</strong></p>
+</div>
+</div>
+</div>
 </div>
 </section><!-- End Publications Section -->
 
@@ -119,37 +111,32 @@ I am a Ph.D. candidate in Industrial Engineering at the University of Washington
 
 <section id="education" class="education">
 <div class="container">
-
 <div class="section-title">
-  <h2>Education</h2>
-  <p>My Academic Background</p>
+<h2>Education</h2>
+<p>My Academic Background</p>
 </div>
-
 <div class="row">
-  <div class="col-lg-6">
-    <h3 class="education-title">University of Washington, Seattle</h3>
-    <div class="education-item">
-      <h4>Ph.D. in Industrial Engineering</h4>
-      <h5>2023 - Present</h5>
-    </div>
-    <div class="education-item">
-      <h4>Master of Science in Industrial Engineering</h4>
-      <h5>2021 - 2023</h5>
-    </div>
-  </div>
-  <div class="col-lg-6">
-    <h3 class="education-title">ShanghaiTech University</h3>
-    <div class="education-item">
-      <h4>Bachelor of Engineering in Materials Science and Engineering</h4>
-      <h5>2017 - 2021</h5>
-    </div>
-  </div>
+<div class="col-lg-6">
+<h3 class="education-title">University of Washington, Seattle</h3>
+<div class="education-item">
+<h4>Ph.D. in Industrial Engineering</h4>
+<h5>2023 - Present</h5>
 </div>
-
+<div class="education-item">
+<h4>Master of Science in Industrial Engineering</h4>
+<h5>2021 - 2023</h5>
+</div>
+</div>
+<div class="col-lg-6">
+<h3 class="education-title">ShanghaiTech University</h3>
+<div class="education-item">
+<h4>Bachelor of Engineering in Materials Science and Engineering</h4>
+<h5>2017 - 2021</h5>
+</div>
+</div>
+</div>
 </div>
 </section><!-- End Education Section -->
-
-<a name="projects"></a>
 
 <div class="portfolio">
 <div class="container">
