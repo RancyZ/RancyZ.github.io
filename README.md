@@ -1,8 +1,8 @@
 <div class="about-me container">
 
 <div class="section-title">
-<h2>About</h2>
-<p>Learn more about me</p>
+<h2>About me</h2>
+<p>I am a second-year Ph.D. student advised by <a href="https://www.shuaihuang.info">Prof. Shuai Huang</a> at the University of Washington.</p>
 </div>
 
 <div class="row">
