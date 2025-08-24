@@ -5,34 +5,40 @@
 <p>Learn more about me</p>
 </div>
 
+<!-- This is the new code -->
 <div class="row">
-<div class="col-lg-4" data-aos="fade-right">
-<img src="assets/img/me.jpg" class="img-fluid" alt="">
+  <!-- Text Block (Now on the left) -->
+  <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
+    <h3>Ph.D. in Industrial Engineering</h3>
+    <p class="fst-italic">
+      University of Washington, Seattle
+    </p>
+    <div class="row">
+      <div class="col-lg-6">
+        <ul>
+          <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>congjing@uw.edu</span></li>
+          <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+1 206 970 9600</span></li>
+        </ul>
+      </div>
+      <div class="col-lg-6">
+        <ul>
+          <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Ph.D. Candidate</span></li>
+          <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Seattle, WA, USA</span></li>
+        </ul>
+      </div>
+    </div>
+    <p>
+      I am a Ph.D. candidate in Industrial Engineering at the University of Washington. My research focuses on Large Language Models (LLMs), Anomaly Detection, Data Generation, and Uncertainty Quantification. I am passionate about applying machine learning to solve real-world problems. I have interned at Instacart and Wyze, where I developed machine learning models for incentive targeting and video anomaly detection.
+    </p>
+  </div>
+  
+  <!-- Image Block (Now on the right) -->
+  <div class="col-lg-4" data-aos="fade-right">
+    <img src="assets/img/me.jpg" class="img-fluid" alt="">
+  </div>
 </div>
-<div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
-<h3>Ph.D. in Industrial Engineering</h3>
-<p class="fst-italic">
-University of Washington, Seattle
-</p>
-<div class="row">
-<div class="col-lg-6">
-<ul>
-<li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>congjing@uw.edu</span></li>
-<li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+1 206 970 9600</span></li>
-</ul>
-</div>
-<div class="col-lg-6">
-<ul>
-<li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Ph.D. Candidate</span></li>
-<li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Seattle, WA, USA</span></li>
-</ul>
-</div>
-</div>
-<p>
-I am a Ph.D. candidate in Industrial Engineering at the University of Washington. My research focuses on Large Language Models (LLMs), Anomaly Detection, Data Generation, and Uncertainty Quantification. I am passionate about applying machine learning to solve real-world problems. I have interned at Instacart and Wyze, where I developed machine learning models for incentive targeting and video anomaly detection.
-</p>
-</div>
-</div>
+
+
 
 </div>
 
