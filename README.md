@@ -6,12 +6,6 @@ display: none;
 </style>
 
 
-
-
-<div class="container" style="text-align: center; padding-top: 2rem; padding-bottom: 1rem;">
-<h1 style="font-size: 2.5rem; font-weight: bold; color: #333;">Congjing Zhang</h1>
-</div>
-
 <div class="about-me container">
 
 <div class="section-title">
