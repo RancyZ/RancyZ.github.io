@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Benchmarking Fairness of Genetic Risk Score Models for Early-Stage Prediction of Type 1 Diabetes"
+#date:   2025-08-01 21:21:53 +00:00
+image: /images/ALARM2025.png
+categories: manu
+authors: "Feng Lin, <strong><u>Congjing Zhang</u></strong>, Shuai Huang"
+subtitle: "Cadatagen 2025"
+#venue: "INFORMS Journal on Data Science (Under Review)"
+#arxiv: https://arxiv.org/abs/1705.05548
+---
+
+
