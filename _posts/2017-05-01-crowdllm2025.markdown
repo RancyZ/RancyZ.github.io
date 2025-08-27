@@ -9,9 +9,7 @@ subtitle: "Cdatagen 2025"
 #venue: "INFORMS Journal on Data Science (Under Review)"
 #arxiv: https://arxiv.org/abs/1705.05548
 ---
-
-<br><br><br>
-
+<br>
 *These authors contributed equally.
 
 
