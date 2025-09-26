@@ -179,6 +179,15 @@
       <div>{{ post.authors }}</div>
       {% endif %}
 
+      {% if post.venue %}
+      <div>
+        <em>{{ post.venue }}</em>
+        <!-- {% assign display_year = post.year | default: post.date | date: "%Y" %}
+        {% if display_year %}, {{ display_year }}{% endif %} -->
+      </div>
+      {% endif %}
+
+
       <!-- <em>{{ post.venue }}</em>, {{ post.date | date: "%Y" }} -->
 
       <div style="margin-top:6px;">
