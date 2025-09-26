@@ -6,7 +6,7 @@ image: /images/ALARM2025.png
 categories: manu
 authors: "Feng Lin, Keyu Tian, Hanming Zheng, <strong><u>Congjing Zhang</u></strong>, Li Zeng, Shuai Huang"
 subtitle: "Cdatagen 2025"
-venue: '<span style="color:red;">2025 Best Paper Award Finalist, INFORMS Quality Statistics and Reliability</span>'
+venue: '<span style="color:blue;">2025 Best Paper Award Finalist, INFORMS Quality Statistics and Reliability</span>'
 #arxiv: https://arxiv.org/abs/1705.05548
 ---
 <br><br>
