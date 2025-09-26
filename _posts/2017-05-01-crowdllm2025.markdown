@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "<span style="color:red;">*</span>CrowdLLM: A Synthetic Crowd of LLM-Based Decision-Makers Augmented with Generative Models"
+title:  "CrowdLLM: A Synthetic Crowd of LLM-Based Decision-Makers Augmented with Generative Models"
 #date:   2025-08-01 21:21:53 +00:00
 image: /images/ALARM2025.png
 categories: manu
