@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "TabGenLLM: A Collaborative Large Language Model Framework to Generate Tabular Data for Solving Dataset Deficiencies"
-#date:   2025-08-01 21:21:53 +00:00
+title:  "Team, Then Trim: An Assembly-Line LLM Framework for High-Quality Tabular Data Generation"
+date:   2026-08-01 21:21:53 +00:00
 image: /images/ALARM2025.png
-categories: manu
-authors: "<strong><u>Congjing Zhang</u></strong>, Feng Lin, Ruoxuan Bao, Shuai Huang"
+categories: research
+authors: "<strong><u>Congjing Zhang</u></strong>*, Feng Lin*, Ruoxuan Bao, Shuai Huang"
 subtitle: "Adatagen 2025"
-#venue: "INFORMS Journal on Data Science (Under Review)"
+venue: "The Fourteenth International Conference on Learning Representations (Under Review)"
 #arxiv: https://arxiv.org/abs/1705.05548
 ---
 
