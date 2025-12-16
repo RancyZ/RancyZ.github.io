@@ -6,7 +6,8 @@ image: /images/ALARM2025.png
 categories: research
 authors: "<strong><u>Congjing Zhang</u></strong>, Jingyu Li, Xianshan Qu, Shuai Huang, Yanfang Su"
 subtitle: "APPAM 2025"
-venue: "APPAM Fall Research Conference (Accepted)"
+venue: "APPAM Fall Research Conference"
+Paper: https://convention2.allacademic.com/one/appam/appam25/index.php?cmd=Online+Program+View+Paper&selected_paper_id=2258734&PHPSESSID=fjoolf17adnq41arihpk4ki426
 #arxiv: https://arxiv.org/abs/1705.05548
 ---
 
