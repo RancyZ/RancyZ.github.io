@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "CrowdLLM: A Synthetic Crowd of LLM-Based Decision-Makers Augmented with Generative Models"
-#date:   2025-08-01 21:21:53 +00:00
+date:   2025-07-29 21:21:53 +00:00
 image: /images/ALARM2025.png
-categories: manu
-authors: "Feng Lin, Keyu Tian, Hanming Zheng, <strong><u>Congjing Zhang</u></strong>, Li Zeng, Shuai Huang"
+#categories: manu
+categories: research
+authors: "Feng Lin*, Keyu Tian*, Hanming Zheng, <strong><u>Congjing Zhang</u></strong>, Li Zeng, Shuai Huang"
 subtitle: "Cdatagen 2025"
-venue: '<span style="color:blue;">2025 Best Paper Award Finalist, INFORMS Quality Statistics and Reliability</span>'
+venue: "INFORMS Journal on Data Science (Under Review)"
+Paper: https://arxiv.org/pdf/2512.07890
 #arxiv: https://arxiv.org/abs/1705.05548
 ---
-<br><br>
-*These authors contributed equally.
-
+'<span style="color:blue;">2025 Best Paper Award Finalist, INFORMS Quality Statistics and Reliability</span>'
 
