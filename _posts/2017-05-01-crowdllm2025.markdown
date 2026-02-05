@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CrowdLLM: Building LLM-Based Digital Populations Augmented with Generative Models"
-date:   2025-07-29 21:21:53 +00:00
+date:   2026-01-25 21:21:53 +00:00
 image: /images/ALARM2025.png
 #categories: manu
 categories: research
