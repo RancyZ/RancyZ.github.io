@@ -6,7 +6,8 @@ image: /images/ALARM2025.png
 categories: research
 authors: "<strong><u>Congjing Zhang</u></strong>*, Feng Lin*, Ruoxuan Bao, Shuai Huang"
 subtitle: "Adatagen 2025"
-venue: "The Fourteenth International Conference on Learning Representations (Under Review)"
+venue: "Forty-third International Conference on Machine Learning (Under Review)"
+Paper: https://www.arxiv.org/pdf/2602.04785
 #arxiv: https://arxiv.org/abs/1705.05548
 ---
 
