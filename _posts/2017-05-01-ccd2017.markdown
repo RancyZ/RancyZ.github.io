@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ALARM: Automated MLLM-Based Anomaly Detection in Complex-EnviRonment Monitoring with Uncertainty Quantification"
-date:   2025-08-01 21:21:53 +00:00
+date:   2026-01-24 21:21:53 +00:00
 image: /images/ALARM2025.png
 categories: research
 authors: "<strong><u>Congjing Zhang</u></strong>*, Feng Lin*, Xinyi Zhao, Pei Guo, Wei Li, Lin Chen, Chaoyue Zhao, Shuai Huang"
