@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Benchmarking Fairness of Genetic Risk Score Models for Early-Stage Prediction of Type 1 Diabetes"
+title:  "LIFT: Agentic LLM Control of Lifecycle-Based Integrity and Fidelity Testing for Healthcare Risk Prediction"
 #date:   2025-08-01 21:21:53 +00:00
 image: /images/ALARM2025.png
 categories: manu
