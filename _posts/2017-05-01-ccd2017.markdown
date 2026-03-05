@@ -7,9 +7,9 @@ categories: research
 authors: "<strong><u>Congjing Zhang</u></strong>*, Feng Lin*, Xinyi Zhao, Pei Guo, Wei Li, Lin Chen, Chaoyue Zhao, Shuai Huang"
 subtitle: "CCD 2025"
 venue: "INFORMS Journal on Data Science"
-Paper: https://arxiv.org/pdf/2512.03101v1
+Paper: https://pubsonline.informs.org/doi/abs/10.1287/ijds.2025.0107
 code: https://github.com/RancyZ/ALARM
-#arxiv: https://arxiv.org/abs/1705.05548
+arxiv: https://arxiv.org/pdf/2512.03101v1
 ---
 
 
