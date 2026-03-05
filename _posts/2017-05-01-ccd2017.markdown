@@ -4,7 +4,7 @@ title:  "ALARM: Automated MLLM-Based Anomaly Detection in Complex-EnviRonment Mo
 date:   2026-01-24 21:21:53 +00:00
 image: /images/ALARM2025.png
 categories: research
-authors: "<strong><u>Congjing Zhang</u></strong>*, Feng Lin*, Xinyi Zhao, Pei Guo, Wei Li, Lin Chen, Chaoyue Zhao, Shuai Huang"
+authors: "<strong><u>Congjing Zhang</u></strong>*, Ryan Feng Lin*, Xinyi Zhao, Pei Guo, Wei Li, Lin Chen, Chaoyue Zhao, Shuai Huang"
 subtitle: "CCD 2025"
 venue: "INFORMS Journal on Data Science"
 Paper: https://pubsonline.informs.org/doi/abs/10.1287/ijds.2025.0107
