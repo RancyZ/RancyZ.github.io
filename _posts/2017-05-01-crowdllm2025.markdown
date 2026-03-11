@@ -11,5 +11,5 @@ venue: "INFORMS Journal on Data Science (Under Review)"
 Paper: https://arxiv.org/pdf/2512.07890
 #arxiv: https://arxiv.org/abs/1705.05548
 ---
-<p style="margin:4px 0; color:blue;">2025 Best Paper Award Finalist (Runner-Up), INFORMS Quality Statistics and Reliability</p>
+<div style="margin-top:4px; margin-bottom:4px; color:blue;">2025 Best Paper Award Finalist (Runner-Up), INFORMS Quality Statistics and Reliability</div>
 
