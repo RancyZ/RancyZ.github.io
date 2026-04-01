@@ -7,7 +7,7 @@ image: /images/ALARM2025.png
 categories: research
 authors: "Feng Lin*, Keyu Tian*, Hanming Zheng, <strong><u>Congjing Zhang</u></strong>, Li Zeng, Shuai Huang"
 subtitle: "Cdatagen 2025"
-venue: "INFORMS Journal on Data Science (Under Review)"
+venue: "INFORMS Journal on Data Science"
 Paper: https://arxiv.org/pdf/2512.07890
 #arxiv: https://arxiv.org/abs/1705.05548
 ---
