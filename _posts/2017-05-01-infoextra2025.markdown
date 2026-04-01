@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "An LLM-Based Integration Framework for Heterogeneous Healthy Food Policy Data Extraction"
-#date:   2025-08-01 21:21:53 +00:00
+title:  "A Role-Based LLM Framework for Structured Information Extraction from Healthy Food Policies"
+#date:   2026-03-01 21:21:53 +00:00
 image: /images/ALARM2025.png
-categories: manu
-authors: "<strong><u>Congjing Zhang</u></strong>, Jingyu Li, Shuai Huang, Yanfang Su"
+categories: research
+authors: "<strong><u>Congjing Zhang</u></strong>*, Ruoxuan Bao*, Jingyu Li, Yoav Ackerman, Shuai Huang, Yanfang Su"
 subtitle: "Bdatagen 2025"
-#venue: "INFORMS Journal on Data Science (Under Review)"
+venue: "Digital Government: Research and Practice (Under Review)"
 #arxiv: https://arxiv.org/abs/1705.05548
 ---
 
