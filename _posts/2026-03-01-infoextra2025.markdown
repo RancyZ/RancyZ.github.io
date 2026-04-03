@@ -7,7 +7,7 @@ categories: research
 authors: "<strong><u>Congjing Zhang</u></strong>*, Ruoxuan Bao*, Jingyu Li, Yoav Ackerman, Shuai Huang, Yanfang Su"
 subtitle: "Bdatagen 2025"
 venue: "Digital Government: Research and Practice (Under Review)"
-#arxiv: https://arxiv.org/abs/1705.05548
+Paper: https://arxiv.org/pdf/2604.01529
 ---
 
 
