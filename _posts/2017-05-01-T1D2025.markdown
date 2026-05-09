@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "LIFT: Agentic LLM Control of Lifecycle-Based Integrity and Fidelity Testing for Healthcare Risk Prediction"
-#date:   2025-08-01 21:21:53 +00:00
+title:  "LIFT: Agentic LLMs for Lifecycle-Based Workflow Testing in Healthcare Risk Prediction"
+date:   2026-09-02 21:21:53 +00:00
 image: /images/ALARM2025.png
-categories: manu
-authors: "<strong><u>Congjing Zhang</u></strong>*, Feng Lin*, Shuai Huang"
+categories: research
+authors: "<strong><u>Congjing Zhang</u></strong>*, Feng Lin*, Noelle So, Meera Rajeev Patel, Mingqian Li, Huiling Liao, Lin Chen, Xiaoning Qian, Shuai Huang"
 subtitle: "Cadatagen 2025"
-#venue: "INFORMS Journal on Data Science (Under Review)"
+#venue: "The Fortieth Annual Conference on Neural Information Processing Systems Evaluations and Datasets Track (Under Review)"
 #arxiv: https://arxiv.org/abs/1705.05548
 ---
 <br><br>
