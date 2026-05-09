@@ -6,9 +6,6 @@ image: /images/ALARM2025.png
 categories: research
 authors: "<strong><u>Congjing Zhang</u></strong>*, Feng Lin*, Noelle So, Meera Rajeev Patel, Mingqian Li, Huiling Liao, Lin Chen, Xiaoning Qian, Shuai Huang"
 subtitle: "Cadatagen 2025"
-#venue: "The Fortieth Annual Conference on Neural Information Processing Systems Evaluations and Datasets Track (Under Review)"
+venue: "The Fortieth Annual Conference on Neural Information Processing Systems Evaluations and Datasets Track (Under Review)"
 #arxiv: https://arxiv.org/abs/1705.05548
 ---
-<br><br>
-*These authors contributed equally.
-
