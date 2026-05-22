@@ -10,5 +10,5 @@ venue: "Forty-third International Conference on Machine Learning (Under Review)"
 Paper: https://www.arxiv.org/pdf/2602.04785
 #arxiv: https://arxiv.org/abs/1705.05548
 ---
-<span style="color:blue;">2026 Best Student Paper Award Finalist, IISE Data Analytics & Information Systems</span>
+<span style="color:blue;">2026 Best Student Paper Award (1st Place), IISE Data Analytics & Information Systems</span>
 
