@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Team, Then Trim: An Assembly-Line LLM Framework for High-Quality Tabular Data Generation"
+title:  "Team-then-Trim (T$^2$): An Assembly-Line LLM Framework for Synthetic Data Generation"
 date:   2026-09-01 21:21:53 +00:00
 image: /images/ALARM2025.png
 categories: research
-authors: "<strong><u>Congjing Zhang</u></strong>*, Feng Lin*, Ruoxuan Bao, Shuai Huang"
+authors: "<strong><u>Congjing Zhang</u></strong>*, Feng Lin*, Ruoxuan Bao, Houtao Deng, Shuai Huang"
 subtitle: "Adatagen 2025"
 venue: "IISE Transactions (Under Review)"
 Paper: https://www.arxiv.org/pdf/2602.04785
