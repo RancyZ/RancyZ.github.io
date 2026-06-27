@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Team-then-Trim (T$^2$): An Assembly-Line LLM Framework for Synthetic Data Generation"
+title:  "Team-then-Trim (T<sup>2</sup>): An Assembly-Line LLM Framework for Synthetic Data Generation"
 date:   2026-09-01 21:21:53 +00:00
 image: /images/ALARM2025.png
 categories: research
