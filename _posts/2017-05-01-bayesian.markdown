@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Bayesian DAG-IRT: Aggregating Expert Judgments for Causal Graph Recovery"
+date:   2026-02-25 21:21:53 +00:00
+image: /images/ALARM2025.png
+categories: research
+authors: "Yuantao Wei, Huiling Liao, Ryan Feng Lin, <strong><u>Congjing Zhang</u></strong>, Xiaoning Qian, Shuai Huang"
+subtitle: "Cadatagen 2025"
+venue: "The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (Under Review)"
+#arxiv: https://arxiv.org/abs/1705.05548
+---
