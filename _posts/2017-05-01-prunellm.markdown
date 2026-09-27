@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "What Breaks Under Pruning in Smart Homes, and When? Evaluating LLM Degradation Across Architectures and Task Complexity"
+date:   2027-01-01 21:21:53 +00:00
+image: /images/ALARM2025.png
+categories: research
+authors: "<strong><u>Congjing Zhang</u></strong>, Vashishtha Patil, Henning Lange, Usman Aleem"
+subtitle: "Cadatagen 2025"
+venue: "The 20th Conference of the European Chapter of the Association for Computational Linguistics (Industry Track) (Under Review)"
+arxiv: https://arxiv.org/pdf/2609.17515
+---
