@@ -7,5 +7,5 @@ categories: research
 authors: "<strong><u>Congjing Zhang</u></strong>, Vashishtha Patil, Henning Lange, Usman Aleem"
 subtitle: "Cadatagen 2025"
 venue: "The 20th Conference of the European Chapter of the Association for Computational Linguistics (Industry Track) (Under Review)"
-arxiv: https://arxiv.org/pdf/2609.17515
+Paper: https://arxiv.org/pdf/2609.17515
 ---
