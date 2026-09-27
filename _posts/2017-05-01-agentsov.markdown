@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "AgentSoV: Virtual Sensing for LLM Multi-Agent Systems via Stream of Variation"
+date:   2027-01-25 21:21:53 +00:00
+image: /images/ALARM2025.png
+categories: research
+authors: "<strong><u>Congjing Zhang</u></strong>, Siyuan Xu, Yunfei Bai, Ke Ren, Xiaoning Qian, Shuai Huang"
+subtitle: "Cadatagen 2025"
+venue: "International Conference on Learning Representations"
+#arxiv: https://arxiv.org/abs/1705.05548
+---
