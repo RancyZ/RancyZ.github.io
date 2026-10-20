@@ -7,5 +7,5 @@ categories: research
 authors: "<strong><u>Congjing Zhang</u></strong>, Siyuan Xu, Yunfei Bai, Ke Ren, Xiaoning Qian, Shuai Huang"
 subtitle: "Cadatagen 2025"
 venue: "International Conference on Learning Representations (Under Review)"
-arxiv: https://arxiv.org/pdf/2610.24845
+paper: https://arxiv.org/pdf/2610.24845
 ---
